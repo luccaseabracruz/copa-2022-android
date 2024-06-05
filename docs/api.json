@@ -1,52 +1,374 @@
 [
   {
-    "name": "1ª RODADA",
+    "name": "1st Round - Group A",
     "stadium": {
-      "name": "LUSAIL",
-      "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/lusali-stadium.png"
+      "name": "Fussball Arena München",
+      "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/munich-football-arena.png"
     },
-    "team1": "BR",
-    "team2": "RS",
-    "date": "2022-11-24T19:00:00Z"
+    "team1": "DE",
+    "team2": "SCO",
+    "date": "2024-06-14T20:00:00Z"
   },
   {
-    "name": "2ª RODADA",
+    "name": "1st Round - Group A",
     "stadium": {
-      "name": "ESTÁDIO 974",
-      "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/974-stadium.png"
+        "name": "Cologne Stadium",
+        "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/cologne-stadium.png"
     },
-    "team1": "BR",
+    "team1": "HU",
     "team2": "CH",
-    "date": "2022-11-28T16:00:00Z"
+    "date": "2024-06-15T14:00:00Z"
   },
   {
-    "name": "3ª RODADA",
+    "name": "1st Round - Group B",
     "stadium": {
-      "name": "LUSAIL",
-      "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/lusali-stadium.png"
+        "name": "Olympiastadion Berlin",
+        "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/olympiastadion-berlin.png"
     },
-    "team1": "CM",
-    "team2": "BR",
-    "date": "2022-12-02T19:00:00Z"
+    "team1": "ES",
+    "team2": "HR",
+    "date": "2024-06-15T17:00:00Z"
   },
   {
-    "name": "Semi Final",
+    "name": "1st Round - Group B",
     "stadium": {
-      "name": "LUSAIL",
-      "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/lusali-stadium.png"
+        "name": "BVB Stadion Dortmund",
+        "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/bvb-stadium.png"
     },
-    "team1": "BR",
-    "team2": "AR",
-    "date": "2022-10-20T02:08:00Z"
+    "team1": "IT",
+    "team2": "AL",
+    "date": "2024-06-15T20:00:00Z"
   },
   {
-    "name": "FINAL",
+    "name": "1st Round - Group D",
     "stadium": {
-      "name": "LUSAIL",
-      "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/lusali-stadium.png"
+        "name": "Volksparkstadion",
+        "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/volksparkstadion.png"
     },
-    "team1": "BR",
+    "team1": "PL",
+    "team2": "NL",
+    "date": "2024-06-16T14:00:00Z"
+  },
+  {
+    "name": "1st Round - Group C",
+    "stadium": {
+        "name": "Stuttgart Arena",
+        "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/stuttgart-arena.png"
+    },
+    "team1": "SI",
+    "team2": "DK",
+    "date": "2024-06-16T17:00:00Z"
+  },
+  {
+    "name": "1st Round - Group C",
+    "stadium": {
+        "name": "AufSchalke Arena",
+        "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/arena-aufschalke.png"
+    },
+    "team1": "RS",
+    "team2": "GB",
+    "date": "2024-06-16T20:00:00Z"
+  },
+  {
+    "name": "1st Round - Group E",
+    "stadium": {
+        "name": "Fussball Arena München",
+        "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/munich-football-arena.png"
+    },
+    "team1": "RO",
+    "team2": "UA",
+    "date": "2024-06-17T14:00:00Z"
+  },
+  {
+    "name": "1st Round - Group E",
+    "stadium": {
+        "name": "Frankfurt Arena",
+        "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/frankfurt-arena.png"
+    },
+    "team1": "BE",
+    "team2": "SK",
+    "date": "2024-06-17T17:00:00Z"
+ },
+ {
+    "name": "1st Round - Group D",
+    "stadium": {
+        "name": "Düsseldorf Arena",
+        "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/dusseldorf-arena.png"
+    },
+    "team1": "AT",
     "team2": "FR",
-    "date": "2022-10-20T02:14:00Z"
-  }
+    "date": "2024-06-17T20:00:00Z"
+ },
+ {
+    "name": "1st Round - Group F",
+    "stadium": {
+        "name": "BVB Stadion",
+        "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/bvb-stadium.png"
+    },
+    "team1": "TR",
+    "team2": "GE",
+    "date": "2024-06-18T17:00:00Z"
+ },
+ {
+    "name": "1st Round - Group ",
+    "stadium": {
+        "name": "Leipzig Stadium",
+        "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/leipzig-stadium.png"
+    },
+    "team1": "PT",
+    "team2": "CZ",
+    "date": "2024-06-18T20:00:00Z"
+ },
+ {
+  "name": "2nd Round - Group B",
+  "stadium": {
+    "name": "Volksparkstadion",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/volksparkstadion.png"
+  },
+  "team1": "HR",
+  "team2": "AL",
+  "date": "2024-06-19T14:00:00Z"
+ },
+ {
+  "name": "2nd Round - Group B",
+  "stadium": {
+    "name": "Volksparkstadion",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/volksparkstadion.png"
+  },
+  "team1": "HR",
+  "team2": "AL",
+  "date": "2024-06-19T14:00:00Z"
+},
+{
+  "name": "2nd Round - Group A",
+  "stadium": {
+    "name": "Stuttgart Arena",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/stuttgart-arena.png"
+  },
+  "team1": "DE",
+  "team2": "HU",
+  "date": "2024-06-19T17:00:00Z"
+},
+{
+  "name": "2nd Round - Group A",
+  "stadium": {
+    "name": "Cologne Stadium",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/cologne-stadium.png"
+  },
+  "team1": "SCO",
+  "team2": "CH",
+  "date": "2024-06-19T20:00:00Z"
+},
+{
+  "name": "2nd Round - Group C",
+  "stadium": {
+    "name": "Fussball Arena München",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/munich-football-arena.png"
+  },
+  "team1": "SI",
+  "team2": "RS",
+  "date": "2024-06-20T14:00:00Z"
+},
+  {
+  "name": "2nd Round - Group C",
+  "stadium": {
+    "name": "Frankfurt Arena",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/frankfurt-arena.png"
+  },
+  "team1": "DK",
+  "team2": "GB",
+  "date": "2024-06-20T17:00:00Z"
+},
+{
+  "name": "2nd Round - Group B",
+  "stadium": {
+    "name": "AufSchalke Arena",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/arena-aufschalke.png"
+  },
+  "team1": "ES",
+  "team2": "IT",
+  "date": "2024-06-20T20:00:00Z"
+},
+{
+  "name": "2nd Round - Group C",
+  "stadium": {
+    "name": "Düsseldorf Arena",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/dusseldorf-arena.png"
+  },
+  "team1": "SI",
+  "team2": "UA",
+  "date": "2024-06-21T14:00:00Z"
+},
+{
+  "name": "2nd Round - Group D",
+  "stadium": {
+    "name": "Olympiastadion Berlin",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/olympiastadion-berlin.png"
+  },
+  "team1": "PL",
+  "team2": "AT",
+  "date": "2024-06-21T17:00:00Z"
+},
+{
+  "name": "2nd Round - Group E",
+  "stadium": {
+    "name": "Leipzig Stadium",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/leipzig-stadium.png"
+  },
+  "team1": "NL",
+  "team2": "FR",
+  "date": "2024-06-21T20:00:00Z"
+},
+{
+  "name": "2nd Round - Group G",
+  "stadium": {
+    "name": "Volksparkstadion",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/volksparkstadion.png"
+  },
+  "team1": "GE",
+  "team2": "CZ",
+  "date": "2024-06-22T14:00:00Z"
+},
+{
+  "name": "2nd Round - Group H",
+  "stadium": {
+    "name": "BVB Stadion Dortmund",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/bvb-stadium.png"
+  },
+  "team1": "TR",
+  "team2": "PT",
+  "date": "2024-06-22T17:00:00Z"
+},
+{
+  "name": "2nd Round - Group F",
+  "stadium": {
+    "name": "Cologne Stadium",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/cologne-stadium.png"
+  },
+  "team1": "BE",
+  "team2": "RO",
+  "date": "2024-06-22T20:00:00Z"
+},
+{
+  "name": "3rd Round - Group A",
+  "stadium": {
+    "name": "Stuttgart Arena",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/stuttgart-arena.png"
+  },
+  "team1": "SCO",
+  "team2": "HU",
+  "date": "2024-06-23T20:00:00Z"
+},
+{
+  "name": "3rd Round - Group A",
+  "stadium": {
+    "name": "Frankfurt Arena",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/frankfurt-arena.png"
+  },
+  "team1": "CH",
+  "team2": "DE",
+  "date": "2024-06-23T20:00:00Z"
+},
+{
+  "name": "3rd Round - Group B",
+  "stadium": {
+    "name": "Leipzig Stadium",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/leipzig-stadium.png"
+  },
+  "team1": "HR",
+  "team2": "IT",
+  "date": "2024-06-24T20:00:00Z"
+},
+{
+  "name": "3rd Round - Group B",
+  "stadium": {
+    "name": "Düsseldorf Arena",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/dusseldorf-arena.png"
+  },
+  "team1": "AL",
+  "team2": "ES",
+  "date": "2024-06-24T20:00:00Z"
+},
+{
+  "name": "3rd Round - Group E",
+  "stadium": {
+    "name": "Olympiastadion Berlin",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/olympiastadion-berlin.png"
+  },
+  "team1": "NL",
+  "team2": "AT",
+  "date": "2024-06-25T17:00:00Z"
+},
+{
+  "name": "3rd Round - Group F",
+  "stadium": {
+    "name": "BVB Stadion Dortmund",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/bvb-stadium.png"
+  },
+  "team1": "FR",
+  "team2": "PL",
+  "date": "2024-06-25T17:00:00Z"
+},
+{
+  "name": "3rd Round - Group C",
+  "stadium": {
+    "name": "Fussball Arena München",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/munich-football-arena.png"
+  },
+  "team1": "DK",
+  "team2": "RS",
+  "date": "2024-06-25T20:00:00Z"
+},
+{
+  "name": "3rd Round - Group C",
+  "stadium": {
+    "name": "Cologne Stadium",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/cologne-stadium.png"
+  },
+  "team1": "GB",
+  "team2": "SI",
+  "date": "2024-06-25T20:00:00Z"
+},
+{
+  "name": "3rd Round - Group G",
+  "stadium": {
+    "name": "Frankfurt Arena",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/frankfurt-arena.png"
+  },
+  "team1": "SK",
+  "team2": "RO",
+  "date": "2024-06-26T17:00:00Z"
+},
+{
+  "name": "3rd Round - Group F",
+  "stadium": {
+    "name": "Stuttgart Arena",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/stuttgart-arena.png"
+  },
+  "team1": "UA",
+  "team2": "BE",
+  "date": "2024-06-26T17:00:00Z"
+},
+{
+  "name": "3rd Round - Group H",
+  "stadium": {
+    "name": "AufSchalke Arena",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/arena-aufschalke.png"
+  },
+  "team1": "GE",
+  "team2": "PT",
+  "date": "2024-06-26T20:00:00Z"
+},
+{
+  "name": "3rd Round - Group H",
+  "stadium": {
+    "name": "Volksparkstadion",
+    "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/volksparkstadion.png"
+  },
+  "team1": "CZ",
+  "team2": "TR",
+  "date": "2024-06-26T20:00:00Z"
+}
+
+  
 ]
